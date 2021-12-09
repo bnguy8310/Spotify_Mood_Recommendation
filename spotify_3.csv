@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,valence,tempo,time_signature
+0,Modern Loneliness,~how i'm feeling~,Lauv,2020-02-20,252337,0,0.144,0.702,0.508,0.0,0.108,-7.105,0.035,0.143,82.008,4
+1,"Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)","Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)",Sista Prod,2020-08-13,156187,0,0.686,0.702,0.616,0.0,0.145,-4.903,0.326,0.507,80.482,4
+2,It's Not All About You,It's Not All About You,Lawrence,2019-11-19,151320,47,0.177,0.717,0.795,0.0,0.261,-2.469,0.0825,0.792,104.005,4
+3,Welcome to Wonderland,Welcome to Wonderland,Anson Seabra,2018-04-20,199131,77,0.949,0.703,0.179,0.0,0.102,-10.906,0.0366,0.346,97.427,3
+4,Just Friends,Just Friends,Audrey Mika,2020-05-08,168982,62,0.0879,0.868,0.656,0.00316,0.14,-6.579,0.0351,0.793,114.991,4
+5,Never in My Wildest Dreams,Waiting on a Song,Dan Auerbach,2017-06-02,176026,66,0.315,0.559,0.466,0.0039,0.0933,-6.769,0.0362,0.623,117.21,4
+6,Working For The Weekend (feat. bbno$),Working For The Weekend (feat. bbno$),MAX,2020-09-04,165986,52,0.223,0.858,0.568,0.0,0.122,-5.623,0.217,0.757,101.02,4
+7,Anyone Else,Anyone Else,Joshua Bassett,2020-07-16,200473,59,0.499,0.633,0.308,0.0,0.0937,-9.009,0.0436,0.824,164.685,3
+8,Lighters,Hell: The Sequel (Deluxe),Bad Meets Evil,2011-01-01,303813,71,0.352,0.676,0.695,0.0,0.119,-8.327,0.245,0.144,90.268,4
+9,Postcard (feat. Gordi),Bloom,Troye Sivan,2018-08-31,216605,54,0.905,0.43,0.36,0.0,0.0967,-8.909,0.036,0.247,97.852,4
+10,False Confidence,Busyhead,Noah Kahan,2019-06-14,223400,70,0.163,0.414,0.663,0.0,0.138,-7.77,0.0456,0.33,108.98,4
+11,Hurt Somebody,Busyhead,Noah Kahan,2019-06-14,167106,67,0.344,0.638,0.51,0.0,0.212,-6.485,0.305,0.448,114.576,4
+12,prom dress,the masquerade,mxmtoon,2019-09-17,197933,74,0.698,0.56,0.674,0.0,0.123,-6.048,0.0446,0.421,119.942,4
+13,"Hey Stupid, I Love You","Hey Stupid, I Love You",JP Saxe,2020-06-25,181000,70,0.218,0.758,0.594,5.32e-06,0.0798,-9.63,0.426,0.869,91.864,4
+14,Favorite T-Shirt,Year of the Sunflower,Jake Scott,2019-12-06,184440,64,0.106,0.85,0.556,0.0,0.144,-8.143,0.0927,0.883,114.987,4
+15,A Little Bit Yours,A Little Bit Yours,JP Saxe,2020-09-02,225680,69,0.735,0.598,0.295,0.0,0.107,-8.553,0.0276,0.314,87.025,4
+16,Kissin' In The Cold,Kissin' In The Cold,JP Saxe,2020-12-08,224083,68,0.777,0.528,0.343,0.0,0.162,-7.62,0.036,0.342,64.879,4
+17,somebody loves you,love is not dying,Jeremy Zucker,2020-04-17,206586,56,0.323,0.745,0.57,4.02e-05,0.119,-7.748,0.188,0.709,95.012,4
+18,i don't want to watch the world end with someone else,i don't want to watch the world end with someone else,Clinton Kane,2020-05-08,184505,74,0.771,0.535,0.359,0.0,0.111,-9.343,0.0607,0.488,154.163,4
+19,Casualty,Casualty,Lawrence,2019-06-21,143893,42,0.0617,0.34,0.643,1.21e-05,0.124,-4.665,0.0813,0.667,92.228,4
+20,IDK You Yet,IDK You Yet,Alexander 23,2020-04-09,184638,5,0.884,0.629,0.306,0.0776,0.124,-11.735,0.0424,0.191,76.994,1
+21,Robin Hood,Robin Hood,Anson Seabra,2018-09-21,221538,68,0.952,0.731,0.153,0.0,0.134,-14.409,0.0562,0.324,78.072,4
+22,Trying My Best,Songs I Wrote in My Bedroom,Anson Seabra,2020-05-08,222467,70,0.951,0.691,0.0682,0.0,0.0916,-18.186,0.0645,0.352,76.94,4
+23,Grow As We Go,Sing To Me Instead,Ben Platt,2019-03-29,249426,69,0.882,0.458,0.137,0.0,0.15,-14.083,0.0355,0.437,80.824,4
+24,Your Shirt,Your Shirt,Chelsea Cutler,2017-02-24,230000,66,0.191,0.433,0.478,0.0,0.32,-6.641,0.0725,0.173,179.98,4
+25,Yellow Lights,Yesterday's Tomorrow Night,Harry Hudson,2018-03-30,171381,66,0.844,0.444,0.21,0.0,0.0956,-10.811,0.0516,0.306,145.944,1
+26,Haunt You (feat. chloe moriondo),Mad World,X Lovers,2020-10-23,167320,56,0.547,0.582,0.527,0.0,0.498,-7.658,0.0372,0.446,100.926,4
+27,Waving Through A Window,Waving Through A Window (from Dear Evan Hansen [Original Broadway Cast Recording]),Ben Platt,2016-12-02,236809,60,0.339,0.552,0.692,0.0,0.104,-5.54,0.0593,0.543,144.666,4
+28,Missing You,Missing You - EP,The Vamps,2019-04-19,214986,62,0.168,0.537,0.647,0.0,0.108,-7.37,0.0519,0.531,79.77,4
+29,Someone To You,Where The Shadow Ends,BANNERS,2019-10-04,219801,81,0.00517,0.52,0.903,0.0,0.254,-5.497,0.042,0.652,74.988,4
+30,Dear Winter,Neotheater,AJR,2019-04-26,168125,55,0.789,0.633,0.217,0.0,0.293,-9.717,0.045,0.546,94.13,4
+31,Best Damn Thing,Best Damn Thing,Alexander Stewart,2018-12-14,232340,34,0.12,0.552,0.815,0.0,0.235,-2.61,0.0429,0.815,93.895,4
+32,I.F.L.Y.,Soul Searching,Bazzi,2019-08-09,165714,78,0.379,0.812,0.519,0.0,0.13,-4.823,0.0385,0.554,104.954,4
+33,Ghost Of You,Youngblood (Deluxe),5 Seconds of Summer,2018-06-15,197411,79,0.0965,0.458,0.561,0.0,0.156,-4.819,0.0269,0.206,149.875,3
+34,1953,Places,The National Parks,2017-09-15,219905,50,0.757,0.425,0.23,3.84e-06,0.334,-10.844,0.0355,0.223,118.826,4
+35,21st Century Machine,21st Century Machine,Catie Turner,2018-11-22,231551,48,0.892,0.549,0.238,0.0,0.109,-9.812,0.0405,0.343,123.635,4
+36,Last Call,Last Call,Hudson Thames,2018-10-12,216346,48,0.191,0.658,0.72,0.0,0.356,-6.075,0.0298,0.548,140.864,4
+37,Wish I Never Met You,single.,Loote,2018-06-15,204733,61,0.0797,0.621,0.692,0.0,0.0806,-5.279,0.217,0.705,165.967,4
+38,IDK Single,single.,Loote,2018-06-15,165306,34,0.251,0.862,0.55,0.0,0.151,-6.771,0.0711,0.666,105.03,4
+39,Longer Than I Thought (feat. Joe Jonas),single.,Loote,2018-06-15,215826,48,0.0871,0.759,0.717,4.57e-06,0.355,-5.864,0.084,0.362,117.999,4
+40,Tuesdays,Tuesdays,Jake Scott,2018-01-26,216989,61,0.63,0.473,0.217,0.0,0.142,-10.739,0.0367,0.628,164.02,4
+41,Mess,Busyhead,Noah Kahan,2019-06-14,213320,64,0.176,0.442,0.826,0.0,0.0978,-5.32,0.0775,0.601,80.848,4
+42,Never the 1,Never the 1,ROSIE,2020-10-30,171960,62,0.906,0.483,0.27,0.0,0.12,-11.902,0.266,0.33,78.49,4
+43,My Play,My Play,AJR,2020-12-22,190263,46,0.0922,0.536,0.436,0.0,0.104,-8.252,0.0287,0.406,78.957,4
+44,July,THE END OF EVERYTHING,Noah Cyrus,2020-05-15,156106,83,0.868,0.708,0.186,0.0,0.0779,-8.953,0.042,0.322,72.541,4
+45,Anyone,Anyone,Justin Bieber,2021-01-01,190779,81,0.181,0.686,0.538,3.13e-06,0.113,-8.026,0.0345,0.584,115.884,4
+46,Holy,Home for Christmas,Justin Bieber,2020-12-04,212093,48,0.196,0.673,0.704,0.0,0.0898,-8.056,0.36,0.372,86.919,4
+47,The Weather (Acoustic),The Weather (Acoustic & Gospel Reprise),Lawrence,2020-04-10,190500,47,0.911,0.373,0.316,0.0,0.118,-7.298,0.0418,0.258,78.261,4
+48,Weaponry,Operation: Wake Up,Mike Posner,2020-12-18,192813,52,0.361,0.628,0.481,0.0,0.187,-6.445,0.0318,0.189,107.896,4
+49,Nothing's the Same,Nothing's the Same,Alexander 23,2020-12-11,175041,0,0.528,0.735,0.32,0.00271,0.215,-11.32,0.0437,0.401,132.853,4
+50,Backyard Boy (with Jeremy Zucker),Backyard Boy,Claire Rosinkranz,2020-10-16,129026,62,0.303,0.753,0.739,5.36e-06,0.0876,-6.49,0.208,0.494,138.09,4
+51,Little Things (with Quinn XCII & Chelsea Cutler),Here For Now,Louis The Child,2020-06-26,197453,64,0.189,0.553,0.636,0.0,0.0779,-4.38,0.152,0.53,81.969,4
+52,Lose Somebody,Golden Hour,Kygo,2020-05-29,199549,76,0.344,0.58,0.586,0.0,0.0755,-6.883,0.0357,0.507,147.988,4
+53,drivers license,drivers license,Olivia Rodrigo,2021-01-08,242013,38,0.721,0.585,0.436,1.31e-05,0.105,-8.761,0.0601,0.132,143.874,4
+54,this is how you fall in love,this is how you fall in love,Jeremy Zucker,2021-01-15,174586,7,0.733,0.52,0.204,2.53e-05,0.126,-12.488,0.0355,0.274,79.682,4
+55,Arcade (feat. FLETCHER),Small Town Boy,Duncan Laurence,2020-11-27,187453,74,0.815,0.446,0.395,0.00216,0.128,-9.328,0.0365,0.267,71.944,3
+56,Lifestyle (feat. Adam Levine),Lifestyle (feat. Adam Levine),Jason Derulo,2021-01-21,153865,77,0.0209,0.749,0.674,0.0,0.169,-5.128,0.0366,0.711,123.055,4
+57,Hold On,Hold On,Justin Bieber,2021-03-05,170813,81,0.0106,0.658,0.634,0.0,0.132,-5.797,0.0413,0.29,139.98,4
+58,Freckles,Freckles,Lawrence,2020-10-30,189413,45,0.231,0.685,0.514,0.0,0.22,-4.749,0.247,0.671,142.051,4
+59,We Don’t Talk Enough (with Alexander 23),Change of Scenery II,Quinn XCII,2021-03-05,148266,57,0.76,0.586,0.185,1.07e-06,0.107,-14.343,0.0651,0.505,186.247,4
+60,Sunkissed,Now and Then,khai dreams,2019-10-11,126464,75,0.595,0.766,0.354,0.0,0.381,-9.486,0.0543,0.792,153.902,4
+61,Beautiful Mistakes (feat. Megan Thee Stallion),Beautiful Mistakes (feat. Megan Thee Stallion),Maroon 5,2021-03-03,227395,38,0.0377,0.713,0.676,0.0,0.154,-5.483,0.027,0.721,99.048,4
+62,Doris Terrace (with Jeremy Zucker & ayokay),Change of Scenery II,Quinn XCII,2021-03-05,212293,48,0.219,0.758,0.431,2.17e-05,0.0587,-8.635,0.15,0.456,86.999,4
+63,Ghost,Justice,Justin Bieber,2021-03-19,153190,89,0.185,0.601,0.741,2.91e-05,0.415,-5.569,0.0478,0.441,153.96,4
+64,Peaches (feat. Daniel Caesar & Giveon),Justice (Triple Chucks Deluxe),Justin Bieber,2021-03-26,198081,57,0.321,0.677,0.696,0.0,0.42,-6.181,0.119,0.464,90.03,4
+65,ilym (feat. ROSIE),ilym (feat. ROSIE),John K,2021-03-19,236081,64,0.572,0.261,0.277,1.4e-06,0.0859,-8.143,0.031,0.0617,179.077,3
+66,The Trick,OK ORCHESTRA,AJR,2021-03-26,170093,53,0.677,0.566,0.354,2.4e-06,0.117,-8.49,0.0276,0.346,90.109,4
+67,Off My Face,Justice (Triple Chucks Deluxe),Justin Bieber,2021-03-26,156467,58,0.92,0.509,0.228,0.0,0.104,-8.68,0.0332,0.586,90.674,4
+68,"Even When/The Best Part - From ""High School Musical: The Musical: The Series (Season 2)""","Even When/The Best Part [From ""High School Musical: The Musical: The Series (Season 2)""]",Olivia Rodrigo,2021-04-30,106880,67,0.714,0.522,0.336,0.0,0.109,-8.577,0.0275,0.566,90.646,4
+69,Build a Bitch,Build a Bitch,Bella Poarch,2021-05-14,122772,83,0.217,0.855,0.463,1.77e-05,0.347,-7.454,0.0367,0.866,102.931,4
+70,INFERNO,INFERNO,Sub Urban,2021-08-13,133133,83,0.0766,0.82,0.611,2.5e-05,0.0684,-5.02,0.122,0.637,127.883,4
+71,Follow You,Follow You / Cutthroat,Imagine Dragons,2021-03-12,175643,80,0.00209,0.542,0.732,7.92e-05,0.496,-5.956,0.0521,0.489,124.912,4
+72,"1 step forward, 3 steps back",SOUR,Olivia Rodrigo,2021-05-21,163586,81,0.941,0.473,0.203,0.0,0.126,-12.627,0.102,0.419,168.884,4
+73,Our Song,Our Song,Anne-Marie,2021-05-21,163733,76,0.141,0.595,0.759,0.0,0.172,-4.245,0.0423,0.515,80.953,4
+74,River,High School Musical: The Musical: The Holiday Special (Original Soundtrack),Various Artists,2020-11-20,202075,46,0.933,0.453,0.235,0.000205,0.115,-10.024,0.0308,0.279,67.869,3
+75,everything sucks,everything sucks,vaultboy,2021-05-21,115401,77,0.00772,0.76,0.371,0.0,0.0785,-8.964,0.0531,0.653,138.023,4
+76,Don't Lose Sight,Don't Lose Sight,Lawrence,2021-05-21,208066,46,0.0774,0.537,0.742,6.48e-06,0.147,-5.075,0.234,0.741,153.8,4
+77,18,18,Jeremy Zucker,2021-06-24,150015,62,0.0319,0.787,0.585,0.0,0.109,-5.384,0.0474,0.591,113.991,4
+78,in case you miss me,in case you miss me,John K,2021-06-25,170005,54,0.147,0.674,0.544,0.0,0.0734,-7.113,0.0409,0.463,149.125,4
+79,Bad Habits,Bad Habits,Ed Sheeran,2021-06-25,231041,90,0.0469,0.808,0.897,3.14e-05,0.364,-3.712,0.0348,0.591,126.026,4
+80,pov,Positions,Ariana Grande,2020-10-30,201882,81,0.36,0.487,0.534,0.0,0.1,-5.664,0.0555,0.173,131.798,4
+81,The Way You Felt,The Way You Felt (Acoustic Version),Alec Benjamin,2021-06-25,182810,41,0.715,0.872,0.52,0.0,0.0982,-6.928,0.0618,0.736,131.918,4
+82,STAY (with Justin Bieber),STAY (with Justin Bieber),The Kid LAROI,2021-07-09,141805,98,0.0383,0.591,0.764,0.0,0.103,-5.484,0.0483,0.478,169.928,4
+83,"Let You Go - From ""High School Musical: The Musical: The Series (Season 2)""","Let You Go [From ""High School Musical: The Musical: The Series (Season 2)""]",Joshua Bassett,2021-07-09,188852,64,0.797,0.426,0.306,0.0,0.143,-10.775,0.0309,0.609,80.477,4
+84,Second Chance,High School Musical: The Musical: The Series (Original Soundtrack/Season 2),Cast of High School Musical: The Musical: The Series,2021-07-30,155526,60,0.206,0.598,0.558,0.0,0.159,-7.135,0.0279,0.384,129.943,4
+85,You Can Have It,You Can Have It,Chelsea Cutler,2021-08-13,171833,55,0.462,0.863,0.482,0.0,0.0492,-7.856,0.498,0.649,93.805,4
+86,Missing You Today,Missing You Today,PUBLIC,2021-07-30,157560,52,0.125,0.849,0.738,7.62e-06,0.101,-5.458,0.0386,0.96,123.008,4
+87,Change My Clothes,Change My Clothes,Dream,2021-08-20,186358,75,0.563,0.597,0.595,2.06e-06,0.291,-7.328,0.226,0.592,169.81,4
+88,False Alarms (with Jon Bellion),False Alarms (with Jon Bellion),Lawrence,2021-07-22,240133,51,0.0945,0.555,0.801,0.0,0.117,-3.171,0.0699,0.266,76.022,4
+89,Colour,Colour,MNEK,2018-06-01,201420,56,0.408,0.683,0.782,0.0,0.236,-2.989,0.0497,0.673,100.954,4
+90,Cry with you,Cry with you,Jeremy Zucker,2021-08-20,217044,66,0.321,0.51,0.307,1.5e-06,0.174,-9.921,0.101,0.356,159.794,3
+91,this is what falling in love feels like,this is what falling in love feels like,JVKE,2021-09-03,120308,80,0.617,0.424,0.438,0.0,0.0837,-5.53,0.0553,0.325,128.983,5
+92,Love Me Like That,"Nevertheless, (Original Television Soundtrack, Pt. 6)",Sam Kim,2021-07-24,211363,80,0.854,0.59,0.294,0.0,0.0873,-8.125,0.0654,0.461,87.895,4
+93,I FEEL IT (with Burna Boy),I FEEL IT (with Burna Boy),Jon Bellion,2021-09-17,224551,62,0.559,0.595,0.745,0.000798,0.0726,-5.059,0.0672,0.698,169.98,4
+94,Older,Older,Alec Benjamin,2021-09-17,164399,74,0.585,0.552,0.497,0.0,0.151,-8.478,0.0617,0.507,84.115,4
+95,My Universe,My Universe,Coldplay,2021-09-24,228000,94,0.00813,0.588,0.701,0.0,0.2,-6.39,0.0402,0.443,104.988,4
+96,Walked Through Hell,Magazines,Anson Seabra,2021-05-19,216864,30,0.664,0.508,0.404,0.0,0.104,-11.092,0.0788,0.129,81.713,4
+97,Calling All Angels (with Quinn XCII),Calling All Angels,Chelsea Cutler,2021-09-10,184946,63,0.232,0.891,0.39,0.0,0.138,-9.025,0.0519,0.367,91.028,4
+98,Enemy (with JID) - from the series Arcane League of Legends,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28,173381,95,0.237,0.728,0.783,0.0,0.434,-4.424,0.266,0.555,77.011,4
+99,Closer,Closer,Sam Kim,2021-11-27,299423,42,0.36,0.509,0.518,0.0,0.153,-8.299,0.0342,0.361,95.674,4
